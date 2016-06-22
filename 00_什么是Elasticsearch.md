@@ -18,14 +18,13 @@ Restful api
 * Replicas (复制) : 是索引的一份或者多份拷贝。
 
    
+```javascript
 关系型数据库 | 非关系型数据库
-
 数据库database | 索引 index
-
 表 table | 类型 type
-
 数据行 row | 文档 document
-
 数据列 column | 字段 field
+```
+
 
 
