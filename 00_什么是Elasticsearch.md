@@ -19,10 +19,13 @@ Restful api
 
    
 关系型数据库 | 非关系型数据库
-数据库database | 索引 index
-表 table | 类型 type
-数据行 row | 文档 document
-数据列 column | 字段 field
 
+数据库database | 索引 index
+
+表 table | 类型 type
+
+数据行 row | 文档 document
+
+数据列 column | 字段 field
 
 
